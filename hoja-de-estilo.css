@@ -1,0 +1,28 @@
+h1 { 
+  text-align: center;
+  font-family:'Montserrat', sans-serif;
+  font-size: 10rem;
+}
+
+h2 {
+  text-align: center;
+  font-family:'Montserrat', sans-serif;
+  font-size: 10rem;
+}
+
+table, th, td {
+  border: solid black 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  width: 1500px;
+  height: 900px;
+  text-align: center;
+}
+
+p {
+  font-family:'Montserrat', sans-serif;
+  font-size: 50px;
+}
